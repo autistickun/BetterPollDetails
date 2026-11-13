@@ -1,8 +1,0 @@
-# Operating System Files
-.DS_Store
-Thumbs.db
-
-# Build and Node Files
-node_modules/
-dist/
-*.log
